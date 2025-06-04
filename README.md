@@ -1,4 +1,4 @@
-# Building MCP Server
+# MCP Server - Job Assistant
 
 Project Idea: Develop an MCP server that connects to a Gmail account to automatically read and parse emails, identifying recruiter outreach, interview schedules, and follow-ups for streamlined job application management.
 
