@@ -3,7 +3,7 @@ from mcp.server.fastmcp import FastMCP
 import os
 
 # Create an MCP server
-mcp = FastMCP("Demo")
+mcp = FastMCP("Gmail-App")
 
 notes_file = '/Users/saikrishna/Desktop/Github/mcp server/mcp-server-demo/notes.txt'
 
