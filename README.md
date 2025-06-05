@@ -8,6 +8,14 @@ Requirements:
 1. UV
 2. Claude Desktop
 
+First time - For UV enabled project creation
+uv init mcp-server-demo
+cd mcp-server-demo
+uv add "mcp[cli]"
+
+You can install this server in Claude Desktop and interact with it right away by running:
+mcp install server.py
+
 
 ✅ 1. Enable the Gmail API
 Go to the Google Cloud Console.
